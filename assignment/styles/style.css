@@ -1,1 +1,10 @@
 /* give your assignment a fun background color */
+body {
+  background: radial-gradient(
+    circle at center,
+    rgb(212, 93, 93) 0,
+    yellow,
+    rgb(126, 126, 208),
+    rgb(90, 215, 90) 100%
+  );
+}
